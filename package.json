@@ -1,0 +1,27 @@
+{
+  "name": "react-koa",
+  "version": "1.0.0",
+  "description": "sample react-koad app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sohel-rana/react-koa.git"
+  },
+  "keywords": [
+    "react",
+    "koad",
+    "node.js"
+  ],
+  "author": "Md. Sohel Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohel-rana/react-koa/issues"
+  },
+  "homepage": "https://github.com/sohel-rana/react-koa",
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
+}
